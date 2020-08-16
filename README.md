@@ -17,13 +17,13 @@ Scripts for DGE analysis
 
   - pheatmap
 
- - ggfortify
+  - ggfortify
 
   - ggrepel
   
   - gridExtra
   
-  -ggpubr
+  - ggpubr
 
 ## Use 
 `jupyter/datascience-notebook`
