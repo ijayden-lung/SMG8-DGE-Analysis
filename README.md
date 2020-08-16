@@ -13,5 +13,17 @@ Statistics::Descriptive
 
 Statistics::Multtest
 
+R (3.6.3)
+
+pheatmap
+
+ggfortify
+
+ggrepel
+
+gridExtra
+
+ggpubr
+
 ## Use 
 `jupyter/datascience-notebook`
