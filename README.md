@@ -26,4 +26,15 @@ Scripts for DGE analysis
   - ggpubr
 
 ## Use 
-`jupyter/datascience-notebook`
+
+### PCA
+
+### Quality Assessment
+
+### DGE Analysis
+
+```
+perl anova.skin.pl     #####Calculate Anova p-value
+perl add_info.pl skin  ####Add q-value, gene name and NMD related information
+pheatmap.all.r         ####visualize expression profile
+```
