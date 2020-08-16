@@ -4,16 +4,7 @@ use Statistics::Descriptive;
 use List::Util qw(first max maxstr min minstr reduce shuffle sum);
 
 
-####My 16 remove 11DG0060
-
-#16DG0559 
-#11DG0840
-#11DG0268
-#11DG0060
-#16DG0559
-#16DG0676
-#16DG0790
-#16DG1353
+my ($input,$output) = @ARGV;
 
 my @control_sample = qw/10DG0934    11DG0060    11DG0268
 11DG0165	11DG0840	12DG1794	14DG2098	15DG2154	15DG2530	16DG0559
@@ -22,13 +13,6 @@ my @control_sample = qw/10DG0934    11DG0060    11DG0268
 18DG0348    18DG0464F   18DG0603F   19DG0230
 /;
 
-#my @control_sample = qw/10DG0934 12DG1794 15DG2530 13DG2283 15DG2154
-#16DG0518 18DG0180 18DG0464F  19DG0151 19DG0230 16DG0144 16DG1353 18DG0348 
-#11DG0165 14DG2098 14DG2019/;
-#
-
-#my @control_sample = qw/10DG0934 12DG1794  15DG2154 16DG0518 18DG0180 18DG0464F  19DG0230 16DG1353/;
-#my @control_sample = qw/10DG0934 12DG1794 15DG2530/;
 my @test_sample = qw/19DG0152F 19DG1391F 19DG2599F/;
 my %control;
 foreach my $sample (@control_sample){
@@ -40,28 +24,23 @@ foreach my $sample (@test_sample){
 }
 
 
-open FILE,"tpm/skin_tpm.tsv";
+open FILE,"$input";
 my $header = <FILE>;
 chomp $header;
 my @header = split /\t/,$header;
-open OUT,">skin.anova.tsv";
+open OUT,">$output";
 print OUT "gene_id\tmean\tlog2foldchange\tp_value";
-open OUT2,">skin.input.tsv";
-print OUT2 "gene_id";
 foreach my $sample (@control_sample){
 	my $sam = $sample;
 	$sam =~ s/F//g;
 	print OUT "\t $sam";
-	print OUT2 "\t $sam";
 }
 foreach my $sample (@test_sample){
 	my $sam = $sample;
 	$sam =~ s/F//g;
 	print OUT "\t $sam";
-	print OUT2 "\t $sam";
 }
 print OUT "\n";
-print OUT2 "\n";
 while(<FILE>){
 	chomp;
 	my @data = split;
@@ -125,18 +104,13 @@ while(<FILE>){
 
 	my %res = $aov->anova(independent => 1, parametric => 1,ordinal => 0);
 	print  OUT "$data[4]\t$ave\t$log2fc\t$res{'p_value'}";
-	print  OUT2 "$data[4]";
 	foreach my $sample (@control_sample){
 		print OUT "\t$print_control{$sample}";
-		print OUT2 "\t$print_control{$sample}";
 	}
 	foreach my $sample (@test_sample){
 		print OUT "\t$print_test{$sample}";
-		print OUT2 "\t$print_test{$sample}";
 	}
 	print OUT "\n";
-	print OUT2 "\n";
 }
 my @group1 = ("SMG+")x26;
 my @group2 = ("SMG8/9-")x3;
-print OUT2 join ("\t","Group",@group1,@group2),"\n";

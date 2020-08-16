@@ -1,0 +1,849 @@
+﻿GeneID,TranscriptID,Reference,Method of Identification,Cell Type,len(3utr),dEJ,#(uORF),Category
+ABCC10,ENST00000244533,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,334,_,1,siUPF1-Up
+ACACB,ENST00000377848,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1861,_,0,siUPF1-Up
+ACACB,ENST00000338432,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1864,_,0,siUPF1-Up
+ACACB,ENST00000377854,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1861,_,0,siUPF1-Up
+ADAMTS17,ENST00000268070,Lykke-Andersen et al. 2014; Tani et al. 2012; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life; siUPF1 RNA half-life,human HEK-293; human HeLa; human U2OS,2813,_,0,siUPF1-Up
+ADAMTS17,ENST00000558960,Lykke-Andersen et al. 2014; Tani et al. 2012; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life; siUPF1 RNA half-life,human HEK-293; human HeLa; human U2OS,258,211,0,siUPF1-Up
+ADM,ENST00000534464,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,754,_,3,siUPF1-Up
+ADM,ENST00000530439,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,721,_,5,siUPF1-Up
+ADM,ENST00000525063,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,146,_,0,siUPF1-Up
+ADM,ENST00000526492,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,58,_,0,siUPF1-Up
+ADM,ENST00000528655,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,714,_,0,siUPF1-Up
+ADM,ENST00000524948,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,158,_,0,siUPF1-Up
+AGO4,ENST00000373210,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,4285,_,0,siUPF1-Up
+ALKBH3,ENST00000532962,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,416,323,0,siUPF1-Up
+ALKBH3,ENST00000302708,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,202,_,0,siUPF1-Up
+ALKBH3,ENST00000534171,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,163,134,0,siUPF1-Up
+AMOTL2,ENST00000514516,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1828,_,2,siUPF1-Up
+AMOTL2,ENST00000513145,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,154,_,0,siUPF1-Up
+AMOTL2,ENST00000422605,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1828,_,0,siUPF1-Up
+ANKRD1,ENST00000371697,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,770,_,1,siUPF1-Up
+AP3M2,ENST00000396926,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,2121,_,0,siUPF1-Up
+AP3M2,ENST00000530375,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,297,126,0,siUPF1-Up
+AP3M2,ENST00000517922,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,215,_,0,siUPF1-Up
+AP3M2,ENST00000518421,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,2121,_,1,siUPF1-Up
+AP3M2,ENST00000517865,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,753,400,7,siUPF1-Up
+ARRDC4,ENST00000268042,Hurt et al. 2013,"siUPF1, CHX, UPF1-CLIP",mouse ES,2651,_,0,siUPF1-Up
+ATF3,ENST00000366987,Gardner et al. 2008; Huang et al. 2011; Karam et al. 2015; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life; siUPF1/siUPF3B RNA half-life; siUPF1 RNA half-life,human U2OS; human HeLa; human HeLa; human U2OS,1217,_,3,siUPF1-Up
+ATF3,ENST00000341491,Gardner et al. 2008; Huang et al. 2011; Karam et al. 2015; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life; siUPF1/siUPF3B RNA half-life; siUPF1 RNA half-life,human U2OS; human HeLa; human HeLa; human U2OS,1222,_,3,siUPF1-Up
+ATG4B,ENST00000415107,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,84,71,0,siUPF1-Up
+ATG4B,ENST00000402096,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,364,_,0,siUPF1-Up
+ATG4B,ENST00000400772,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,269,209,0,siUPF1-Up
+BACE2,ENST00000330333,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,973,_,0,siUPF1-Up
+BACE2,ENST00000347667,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,6894,_,0,siUPF1-Up
+BAG1,ENST00000379707,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,522,262,1,siUPF1-Up
+BEND6,ENST00000370748,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,2741,_,2,siUPF1-Up
+BEND6,ENST00000370746,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1270,_,1,siUPF1-Up
+BRSK2,ENST00000382179,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1022,_,3,siUPF1-Up
+BRSK2,ENST00000544817,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,224,57,1,siUPF1-Up
+BRSK2,ENST00000528841,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,991,_,0,siUPF1-Up
+BRSK2,ENST00000531197,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,754,_,0,siUPF1-Up
+BRSK2,ENST00000308219,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1696,_,0,siUPF1-Up
+C11orf80,ENST00000525449,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,90,_,1,siUPF1-Up
+C11orf80,ENST00000532565,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,56,_,3,siUPF1-Up
+C11orf80,ENST00000531400,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,35,_,1,siUPF1-Up
+C11orf80,ENST00000532727,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1460,1336,0,siUPF1-Up
+C11orf80,ENST00000540737,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,88,_,2,siUPF1-Up
+C14orf79,ENST00000389964,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1215,298,0,siUPF1-Up
+C14orf79,ENST00000547315,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,753,_,0,siUPF1-Up
+C14orf79,ENST00000549240,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,443,_,4,siUPF1-Up
+C1orf109,ENST00000358011,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,1553,_,0,siUPF1-Up
+C1orf109,ENST00000464085,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,12,_,0,siUPF1-Up
+C1orf27,ENST00000287859,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,2302,_,0,siUPF1-Up
+C1orf27,ENST00000367470,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,2291,_,0,siUPF1-Up
+C1orf27,ENST00000419367,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,475,_,0,siUPF1-Up
+C6orf141,ENST00000529246,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,568,_,2,siUPF1-Up
+C6orf141,ENST00000414696,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,830,429,1,siUPF1-Up
+C6orf48,ENST00000443974,Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa; human U2OS,98,_,4,siUPF1-Up
+C6orf48,ENST00000444192,Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa; human U2OS,98,_,2,siUPF1-Up
+C6orf48,ENST00000416886,Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa; human U2OS,98,_,3,siUPF1-Up
+C6orf48,ENST00000375640,Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa; human U2OS,98,_,3,siUPF1-Up
+C6orf48,ENST00000552514,Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa; human U2OS,410,195,0,siUPF1-Up
+C6orf48,ENST00000375633,Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa; human U2OS,101,_,3,siUPF1-Up
+C6orf48,ENST00000375638,Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa; human U2OS,98,_,3,siUPF1-Up
+C6orf48,ENST00000395788,Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa; human U2OS,101,_,3,siUPF1-Up
+C6orf48,ENST00000375642,Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa; human U2OS,98,_,4,siUPF1-Up
+C6orf48,ENST00000430690,Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa; human U2OS,98,_,4,siUPF1-Up
+C6orf48,ENST00000549426,Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa; human U2OS,410,195,0,siUPF1-Up
+C6orf48,ENST00000435938,Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa; human U2OS,98,_,2,siUPF1-Up
+C6orf48,ENST00000375635,Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa; human U2OS,98,_,2,siUPF1-Up
+C6orf48,ENST00000375639,Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa; human U2OS,98,_,2,siUPF1-Up
+C6orf48,ENST00000456268,Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa; human U2OS,98,_,2,siUPF1-Up
+C6orf48,ENST00000395789,Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa; human U2OS,98,_,4,siUPF1-Up
+C6orf48,ENST00000424962,Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa; human U2OS,98,_,3,siUPF1-Up
+C6orf48,ENST00000375641,Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa; human U2OS,98,_,2,siUPF1-Up
+C6orf48,ENST00000436558,Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa; human U2OS,98,_,4,siUPF1-Up
+C6orf48,ENST00000458514,Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa; human U2OS,98,_,2,siUPF1-Up
+C8orf58,ENST00000289989,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,844,_,0,siUPF1-Up
+C9orf85,ENST00000479413,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,569,108,1,siUPF1-Up
+C9orf85,ENST00000473252,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,449,335,0,siUPF1-Up
+C9orf85,ENST00000334731,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,615,_,1,siUPF1-Up
+C9orf85,ENST00000377031,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,377,_,1,siUPF1-Up
+CAPRIN2,ENST00000417045,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,104,_,1,siUPF1-Up
+CAPRIN2,ENST00000454014,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,2810,1892,2,siUPF1-Up
+CAPRIN2,ENST00000395805,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,890,_,1,siUPF1-Up
+CARKD,ENST00000424185,Lykke-Andersen et al. 2014; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human U2OS,577,_,0,siUPF1-Up
+CARKD,ENST00000309957,Lykke-Andersen et al. 2014; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human U2OS,1472,_,0,siUPF1-Up
+CAV1,ENST00000393470,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,32,_,0,siUPF1-Up
+CAV1,ENST00000393468,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,226,_,0,siUPF1-Up
+CAV1,ENST00000341049,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,1889,_,1,siUPF1-Up
+CAV1,ENST00000393467,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,1889,_,0,siUPF1-Up
+CCDC18,ENST00000401026,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,130,_,0,siUPF1-Up
+CCNB1IP1,ENST00000398169,Lykke-Andersen et al. 2014; Schmidt et al. 2015,SMG6 endonuclease substrates; SMG6 endonuclease substrates,human HEK-293; human HeLa,180,_,3,siUPF1-Up
+CCNB1IP1,ENST00000358932,Lykke-Andersen et al. 2014; Schmidt et al. 2015,SMG6 endonuclease substrates; SMG6 endonuclease substrates,human HEK-293; human HeLa,180,_,4,siUPF1-Up
+CCNB1IP1,ENST00000353689,Lykke-Andersen et al. 2014; Schmidt et al. 2015,SMG6 endonuclease substrates; SMG6 endonuclease substrates,human HEK-293; human HeLa,179,_,2,siUPF1-Up
+CCNB1IP1,ENST00000398163,Lykke-Andersen et al. 2014; Schmidt et al. 2015,SMG6 endonuclease substrates; SMG6 endonuclease substrates,human HEK-293; human HeLa,121,_,3,siUPF1-Up
+CCNB1IP1,ENST00000556854,Lykke-Andersen et al. 2014; Schmidt et al. 2015,SMG6 endonuclease substrates; SMG6 endonuclease substrates,human HEK-293; human HeLa,505,456,4,siUPF1-Up
+CCNB1IP1,ENST00000437553,Lykke-Andersen et al. 2014; Schmidt et al. 2015,SMG6 endonuclease substrates; SMG6 endonuclease substrates,human HEK-293; human HeLa,179,_,3,siUPF1-Up
+CD99L2,ENST00000466436,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,305,_,0,siUPF1-Up
+CD99L2,ENST00000355149,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,2695,_,0,siUPF1-Up
+CD99L2,ENST00000437787,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,2695,_,0,siUPF1-Up
+CDKN1C,ENST00000414822,Lou et al. 2014,siUPF1 RNA half-life,mouse P19,708,_,1,siUPF1-Up
+CDKN1C,ENST00000313407,Lou et al. 2014,siUPF1 RNA half-life,mouse P19,685,_,0,siUPF1-Up
+CELSR3,ENST00000164024,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1736,_,6,siUPF1-Up
+CERS1,ENST00000429504,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1017,_,0,siUPF1-Up
+CERS1,ENST00000542296,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1015,_,2,siUPF1-Up
+CES2,ENST00000568470,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,2049,1581,5,siUPF1-Up
+CES2,ENST00000317091,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,1071,_,5,siUPF1-Up
+CES2,ENST00000417689,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,1044,_,5,siUPF1-Up
+CES2,ENST00000570032,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,261,63,2,siUPF1-Up
+CHD9,ENST00000447540,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,2606,_,1,siUPF1-Up
+CHD9,ENST00000566029,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,4255,_,1,siUPF1-Up
+CHST3,ENST00000373115,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,5093,_,0,siUPF1-Up
+CLCF1,ENST00000312438,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,968,_,1,siUPF1-Up
+CLCF1,ENST00000533438,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,174,_,1,siUPF1-Up
+CLDN4,ENST00000431918,Hurt et al. 2013; Wang et al. 2011,"siUPF1, CHX, UPF1-CLIP; siUPF1 RNA half-life",mouse ES; human U2OS,852,_,11,siUPF1-Up
+CLDN4,ENST00000435050,Hurt et al. 2013; Wang et al. 2011,"siUPF1, CHX, UPF1-CLIP; siUPF1 RNA half-life",mouse ES; human U2OS,853,_,11,siUPF1-Up
+CLDN4,ENST00000340958,Hurt et al. 2013; Wang et al. 2011,"siUPF1, CHX, UPF1-CLIP; siUPF1 RNA half-life",mouse ES; human U2OS,853,_,0,siUPF1-Up
+CLHC1,ENST00000407122,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,141,_,1,siUPF1-Up
+CLHC1,ENST00000401408,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,141,_,2,siUPF1-Up
+CLHC1,ENST00000406076,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,121,_,2,siUPF1-Up
+CMTM3,ENST00000460097,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1255,_,3,siUPF1-Up
+CMTM3,ENST00000567572,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1243,_,2,siUPF1-Up
+CMTM3,ENST00000564060,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,297,_,0,siUPF1-Up
+CMTM3,ENST00000565666,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,203,_,3,siUPF1-Up
+CMTM3,ENST00000361909,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1255,_,1,siUPF1-Up
+CMTM3,ENST00000424011,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1255,_,2,siUPF1-Up
+CMTM3,ENST00000562707,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,64,_,0,siUPF1-Up
+CMTM3,ENST00000568477,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,131,_,2,siUPF1-Up
+CMTM3,ENST00000566121,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,123,_,2,siUPF1-Up
+CMTM3,ENST00000566756,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1387,146,0,siUPF1-Up
+COX19,ENST00000344111,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,3303,_,0,siUPF1-Up
+COX19,ENST00000457254,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,1011,839,0,siUPF1-Up
+CPZ,ENST00000315782,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,132,_,0,siUPF1-Up
+CPZ,ENST00000382480,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,144,_,2,siUPF1-Up
+CPZ,ENST00000515606,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,2146,1656,0,siUPF1-Up
+CPZ,ENST00000360986,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,134,_,0,siUPF1-Up
+CSRNP1,ENST00000273153,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1200,_,0,siUPF1-Up
+CSRNP1,ENST00000514182,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,717,_,0,siUPF1-Up
+CSRP1,ENST00000340006,Hurt et al. 2013,"siUPF1, CHX, UPF1-CLIP",mouse ES,1179,_,2,siUPF1-Up
+CSRP1,ENST00000532460,Hurt et al. 2013,"siUPF1, CHX, UPF1-CLIP",mouse ES,734,_,1,siUPF1-Up
+CSRP1,ENST00000531916,Hurt et al. 2013,"siUPF1, CHX, UPF1-CLIP",mouse ES,64,_,3,siUPF1-Up
+CSRP1,ENST00000526723,Hurt et al. 2013,"siUPF1, CHX, UPF1-CLIP",mouse ES,36,_,0,siUPF1-Up
+CTDSP1,ENST00000443891,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,251,_,4,siUPF1-Up
+CXorf38,ENST00000378421,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,227,_,5,siUPF1-Up
+CXorf38,ENST00000327877,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,1131,_,0,siUPF1-Up
+CXorf38,ENST00000378426,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,1582,_,3,siUPF1-Up
+CYB561,ENST00000581573,Schmidt et al. 2015; Tani et al. 2012,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HeLa; human HeLa,1186,_,1,siUPF1-Up
+CYB561,ENST00000542042,Schmidt et al. 2015; Tani et al. 2012,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HeLa; human HeLa,262,_,1,siUPF1-Up
+CYB561,ENST00000448884,Schmidt et al. 2015; Tani et al. 2012,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HeLa; human HeLa,1019,_,0,siUPF1-Up
+CYB561,ENST00000582997,Schmidt et al. 2015; Tani et al. 2012,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HeLa; human HeLa,88,_,0,siUPF1-Up
+DCLRE1C,ENST00000396817,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,237,_,1,siUPF1-Up
+DCLRE1C,ENST00000378258,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,237,_,1,siUPF1-Up
+DCLRE1C,ENST00000378278,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,237,_,0,siUPF1-Up
+DCLRE1C,ENST00000378249,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,237,_,4,siUPF1-Up
+DCLRE1C,ENST00000378242,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,220,_,1,siUPF1-Up
+DCLRE1C,ENST00000378254,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,237,_,2,siUPF1-Up
+DCLRE1C,ENST00000378255,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,237,_,2,siUPF1-Up
+DCLRE1C,ENST00000378246,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,529,_,2,siUPF1-Up
+DCUN1D2,ENST00000478244,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,982,_,2,siUPF1-Up
+DCUN1D2,ENST00000332592,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,2210,_,0,siUPF1-Up
+DCUN1D2,ENST00000375403,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,2581,291,0,siUPF1-Up
+DDIT3,ENST00000346473,Lykke-Andersen et al. 2014; Schmidt et al. 2015,SMG6 endonuclease substrates; SMG6 endonuclease substrates ,human HEK-293; human HeLa,216,_,1,siUPF1-Up
+DDIT3,ENST00000547303,Lykke-Andersen et al. 2014; Schmidt et al. 2015,SMG6 endonuclease substrates; SMG6 endonuclease substrates ,human HEK-293; human HeLa,221,_,1,siUPF1-Up
+DDIT3,ENST00000551116,Lykke-Andersen et al. 2014; Schmidt et al. 2015,SMG6 endonuclease substrates; SMG6 endonuclease substrates ,human HEK-293; human HeLa,220,_,1,siUPF1-Up
+DDIT4,ENST00000307365,Hurt et al. 2013; Lykke-Andersen et al. 2014; Tani et al. 2012,"siUPF1, CHX, UPF1 CLIP; SMG6 endonuclease substrates; siUPF1 RNA half-life",mouse ES; human HEK-293; human HeLa,848,_,0,siUPF1-Up
+DDX51,ENST00000397333,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,2678,_,0,siUPF1-Up
+DENND3,ENST00000519811,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1575,_,0,siUPF1-Up
+DENND3,ENST00000424248,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1563,_,4,siUPF1-Up
+DENND3,ENST00000523308,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1569,_,4,siUPF1-Up
+DENND3,ENST00000518198,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1557,248,0,siUPF1-Up
+DNAJB2,ENST00000336576,Mendell et al. 2014,siUPF1 RNA half-life,human HeLa,1913,_,0,siUPF1-Up
+DNAJB2,ENST00000392086,Mendell et al. 2014,siUPF1 RNA half-life,human HeLa,901,_,0,siUPF1-Up
+DOK1,ENST00000409429,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,422,_,0,siUPF1-Up
+DOK1,ENST00000233668,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,440,_,3,siUPF1-Up
+DOK1,ENST00000340004,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,1164,_,0,siUPF1-Up
+DUSP12,ENST00000484291,Lykke-Andersen et al. 2014; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human U2OS,794,341,0,siUPF1-Up
+DUSP12,ENST00000367943,Lykke-Andersen et al. 2014; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human U2OS,215,_,0,siUPF1-Up
+DUSP12,ENST00000464004,Lykke-Andersen et al. 2014; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human U2OS,304,273,0,siUPF1-Up
+EDN1,ENST00000379375,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1127,_,0,siUPF1-Up
+EGF,ENST00000265171,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,811,_,1,siUPF1-Up
+EGF,ENST00000509793,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,539,_,1,siUPF1-Up
+ERCC8,ENST00000381118,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,2019,1166,1,siUPF1-Up
+ERCC8,ENST00000265038,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,783,_,3,siUPF1-Up
+FOSL2,ENST00000379619,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,4864,_,0,siUPF1-Up
+FOSL2,ENST00000388920,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,2221,_,0,siUPF1-Up
+FOSL2,ENST00000330315,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,1368,_,0,siUPF1-Up
+FRMD4A,ENST00000493380,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,879,_,1,siUPF1-Up
+FRMD4A,ENST00000357447,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,3326,_,8,siUPF1-Up
+FRMD4A,ENST00000342409,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,7,_,1,siUPF1-Up
+FSD1L,ENST00000394926,Karam et al. 2015; Lykke-Andersen et al. 2014,siUPF1/siUPF3B RNA half-life; SMG6 endonuclease substrates,human HeLa; human HEK-293,319,_,0,siUPF1-Up
+FSD1L,ENST00000495708,Karam et al. 2015; Lykke-Andersen et al. 2014,siUPF1/siUPF3B RNA half-life; SMG6 endonuclease substrates,human HeLa; human HEK-293,335,_,1,siUPF1-Up
+FSD1L,ENST00000374707,Karam et al. 2015; Lykke-Andersen et al. 2014,siUPF1/siUPF3B RNA half-life; SMG6 endonuclease substrates,human HeLa; human HEK-293,5950,_,0,siUPF1-Up
+FSD1L,ENST00000481272,Karam et al. 2015; Lykke-Andersen et al. 2014,siUPF1/siUPF3B RNA half-life; SMG6 endonuclease substrates,human HeLa; human HEK-293,92,_,0,siUPF1-Up
+GABARAPL1,ENST00000545887,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,117,_,0,siUPF1-Up
+GABARAPL1,ENST00000540424,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,1956,619,0,siUPF1-Up
+GABARAPL1,ENST00000539408,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,147,97,1,siUPF1-Up
+GABARAPL1,ENST00000541453,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,220,98,0,siUPF1-Up
+GABARAPL1,ENST00000545047,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,195,_,0,siUPF1-Up
+GABARAPL1,ENST00000537201,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,232,211,0,siUPF1-Up
+GABARAPL1,ENST00000266458,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,1276,_,1,siUPF1-Up
+GABARAPL1,ENST00000544284,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,98,_,0,siUPF1-Up
+GABARAPL1,ENST00000546017,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,1271,_,1,siUPF1-Up
+GABARAPL1,ENST00000543602,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,67,_,0,siUPF1-Up
+GABARAPL1,ENST00000541960,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,2878,1536,0,siUPF1-Up
+GADD45A,ENST00000370986,Hurt et al. 2013; Lykke-Andersen et al. 2014; Schmidt et al. 2015,"siUPF1, CHX, UPF1-CLIP; SMG6 endonuclease substrates; SMG6 endonuclease substrates ",mouse ES; human HEK-293; human HeLa,564,_,1,siUPF1-Up
+GADD45B,ENST00000215631,Huang et al. 2011,siUPF1 RNA half-life,human HeLa,658,_,0,siUPF1-Up
+GADD45B,ENST00000585359,Huang et al. 2011,siUPF1 RNA half-life,human HeLa,354,184,0,siUPF1-Up
+GAS8,ENST00000565062,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,989,323,0,siUPF1-Up
+GOLGA6L4,ENST00000510439,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,2776,_,1,siUPF1-Up
+GREB1L,ENST00000580732,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,2596,_,5,siUPF1-Up
+GREB1L,ENST00000424526,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,9,_,3,siUPF1-Up
+HACE1,ENST00000369125,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,740,_,0,siUPF1-Up
+HACE1,ENST00000416605,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,3957,2289,0,siUPF1-Up
+HACE1,ENST00000262903,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,1569,_,0,siUPF1-Up
+HECW1,ENST00000395891,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,4075,_,3,siUPF1-Up
+HECW1,ENST00000453890,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,126,_,3,siUPF1-Up
+HIVEP3,ENST00000372583,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,4086,_,4,siUPF1-Up
+HIVEP3,ENST00000247584,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,438,_,4,siUPF1-Up
+HIVEP3,ENST00000372584,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,4086,_,4,siUPF1-Up
+HKR1,ENST00000591417,Schmidt et al. 2015; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HeLa; human U2OS,13,_,1,siUPF1-Up
+HKR1,ENST00000591259,Schmidt et al. 2015; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HeLa; human U2OS,91,_,0,siUPF1-Up
+HKR1,ENST00000591134,Schmidt et al. 2015; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HeLa; human U2OS,176,_,1,siUPF1-Up
+HKR1,ENST00000591471,Schmidt et al. 2015; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HeLa; human U2OS,670,_,7,siUPF1-Up
+HLA-E,ENST00000415649,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,1459,_,0,siUPF1-Up
+HLA-E,ENST00000376630,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,1459,_,0,siUPF1-Up
+HLA-E,ENST00000415289,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,1459,_,0,siUPF1-Up
+HLA-E,ENST00000427936,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,1459,_,0,siUPF1-Up
+HLA-E,ENST00000425603,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,1459,_,0,siUPF1-Up
+HPS1,ENST00000338546,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,384,_,3,siUPF1-Up
+HPS1,ENST00000361490,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1366,_,3,siUPF1-Up
+ID4,ENST00000378700,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1489,_,0,siUPF1-Up
+IER5L,ENST00000372491,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1282,_,1,siUPF1-Up
+IFFO2,ENST00000455833,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,4280,_,0,siUPF1-Up
+IGHMBP2,ENST00000539224,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,150,_,0,siUPF1-Up
+IGHMBP2,ENST00000544541,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,327,287,0,siUPF1-Up
+IGHMBP2,ENST00000255078,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,868,_,0,siUPF1-Up
+IGHMBP2,ENST00000545146,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,174,126,0,siUPF1-Up
+IL6R,ENST00000368485,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,4070,_,1,siUPF1-Up
+IL6R,ENST00000344086,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1712,_,1,siUPF1-Up
+IRAK4,ENST00000552309,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,710,526,0,siUPF1-Up
+IRAK4,ENST00000547521,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,875,859,1,siUPF1-Up
+IRAK4,ENST00000550386,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,1473,1249,0,siUPF1-Up
+IRAK4,ENST00000440781,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,260,_,2,siUPF1-Up
+IRAK4,ENST00000547101,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,1473,1249,0,siUPF1-Up
+IRAK4,ENST00000431837,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,2828,_,3,siUPF1-Up
+IRAK4,ENST00000551736,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,188,_,0,siUPF1-Up
+IRAK4,ENST00000550615,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,1089,1018,0,siUPF1-Up
+ITFG2,ENST00000540929,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,1423,1035,0,siUPF1-Up
+ITFG2,ENST00000537851,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,1172,759,0,siUPF1-Up
+ITGAE,ENST00000263087,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,219,_,0,siUPF1-Up
+JUN,ENST00000371222,Lykke-Andersen et al. 2014; Schmidt et al. 2015,SMG6 endonuclease substrates; SMG6 endonuclease substrates ,human HEK-293; human HeLa,1282,_,1,siUPF1-Up
+KCTD7,ENST00000443322,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,171,_,0,siUPF1-Up
+KCTD7,ENST00000275532,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,3819,_,0,siUPF1-Up
+KIF13B,ENST00000524189,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,3225,_,0,siUPF1-Up
+KIF13B,ENST00000523968,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1560,1473,0,siUPF1-Up
+KIF13B,ENST00000522355,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,2354,1671,0,siUPF1-Up
+KIF13B,ENST00000521515,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,470,_,0,siUPF1-Up
+KLF6,ENST00000497571,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,3543,_,0,siUPF1-Up
+LAMA5,ENST00000370677,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,146,_,0,siUPF1-Up
+LAMA5,ENST00000252999,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,271,_,0,siUPF1-Up
+LAMB3,ENST00000356082,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,401,_,0,siUPF1-Up
+LAMB3,ENST00000367030,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,294,_,0,siUPF1-Up
+LAMB3,ENST00000391911,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,396,_,0,siUPF1-Up
+LETMD1,ENST00000547318,Lykke-Andersen et al. 2014; Schmidt et al. 2015,SMG6 endonuclease substrates; SMG6 endonuclease substrates ,human HEK-293; human HeLa,1528,479,0,siUPF1-Up
+LETMD1,ENST00000380135,Lykke-Andersen et al. 2014; Schmidt et al. 2015,SMG6 endonuclease substrates; SMG6 endonuclease substrates ,human HEK-293; human HeLa,1109,106,0,siUPF1-Up
+LETMD1,ENST00000552739,Lykke-Andersen et al. 2014; Schmidt et al. 2015,SMG6 endonuclease substrates; SMG6 endonuclease substrates ,human HEK-293; human HeLa,970,_,0,siUPF1-Up
+LETMD1,ENST00000547555,Lykke-Andersen et al. 2014; Schmidt et al. 2015,SMG6 endonuclease substrates; SMG6 endonuclease substrates ,human HEK-293; human HeLa,1502,438,0,siUPF1-Up
+LETMD1,ENST00000550755,Lykke-Andersen et al. 2014; Schmidt et al. 2015,SMG6 endonuclease substrates; SMG6 endonuclease substrates ,human HEK-293; human HeLa,320,177,1,siUPF1-Up
+LETMD1,ENST00000547008,Lykke-Andersen et al. 2014; Schmidt et al. 2015,SMG6 endonuclease substrates; SMG6 endonuclease substrates ,human HEK-293; human HeLa,938,_,0,siUPF1-Up
+LETMD1,ENST00000262055,Lykke-Andersen et al. 2014; Schmidt et al. 2015,SMG6 endonuclease substrates; SMG6 endonuclease substrates ,human HEK-293; human HeLa,990,_,0,siUPF1-Up
+LETMD1,ENST00000550100,Lykke-Andersen et al. 2014; Schmidt et al. 2015,SMG6 endonuclease substrates; SMG6 endonuclease substrates ,human HEK-293; human HeLa,999,56,0,siUPF1-Up
+LETMD1,ENST00000550929,Lykke-Andersen et al. 2014; Schmidt et al. 2015,SMG6 endonuclease substrates; SMG6 endonuclease substrates ,human HEK-293; human HeLa,374,_,2,siUPF1-Up
+LPIN1,ENST00000396099,Lykke-Andersen et al. 2014; Schmidt et al. 2015,SMG6 endonuclease substrates; SMG6 endonuclease substrates ,human HEK-293; human HeLa,72,_,3,siUPF1-Up
+LPIN1,ENST00000256720,Lykke-Andersen et al. 2014; Schmidt et al. 2015,SMG6 endonuclease substrates; SMG6 endonuclease substrates ,human HEK-293; human HeLa,2618,_,0,siUPF1-Up
+LPIN1,ENST00000404113,Lykke-Andersen et al. 2014; Schmidt et al. 2015,SMG6 endonuclease substrates; SMG6 endonuclease substrates ,human HEK-293; human HeLa,128,_,0,siUPF1-Up
+LPIN1,ENST00000396098,Lykke-Andersen et al. 2014; Schmidt et al. 2015,SMG6 endonuclease substrates; SMG6 endonuclease substrates ,human HEK-293; human HeLa,19,_,3,siUPF1-Up
+LPIN1,ENST00000396097,Lykke-Andersen et al. 2014; Schmidt et al. 2015,SMG6 endonuclease substrates; SMG6 endonuclease substrates ,human HEK-293; human HeLa,1739,_,2,siUPF1-Up
+LPIN1,ENST00000449576,Lykke-Andersen et al. 2014; Schmidt et al. 2015,SMG6 endonuclease substrates; SMG6 endonuclease substrates ,human HEK-293; human HeLa,96,_,0,siUPF1-Up
+LRRC37B,ENST00000394713,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,23,_,0,siUPF1-Up
+LRRC37B,ENST00000327564,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,176,_,0,siUPF1-Up
+LRRC37B,ENST00000578674,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,630,535,0,siUPF1-Up
+MAFF,ENST00000407965,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1627,_,1,siUPF1-Up
+MAFF,ENST00000426621,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1625,_,0,siUPF1-Up
+MAFF,ENST00000538320,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1625,_,0,siUPF1-Up
+MAMDC4,ENST00000445819,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,194,_,0,siUPF1-Up
+MAMDC4,ENST00000317446,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,194,_,0,siUPF1-Up
+MBOAT1,ENST00000324607,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,141,_,4,siUPF1-Up
+MCTP1,ENST00000505078,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,905,_,0,siUPF1-Up
+MCTP1,ENST00000505208,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,210,_,1,siUPF1-Up
+MCTP1,ENST00000429576,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,917,_,1,siUPF1-Up
+MPHOSPH9,ENST00000541076,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,2592,_,1,siUPF1-Up
+MPHOSPH9,ENST00000535049,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,216,163,1,siUPF1-Up
+MPHOSPH9,ENST00000606320,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,2592,_,1,siUPF1-Up
+MTMR10,ENST00000563714,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,516,_,5,siUPF1-Up
+MTMR10,ENST00000568604,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,4925,800,0,siUPF1-Up
+MTMR10,ENST00000567567,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,2188,1324,0,siUPF1-Up
+MUS81,ENST00000308110,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,387,_,0,siUPF1-Up
+MVK,ENST00000537237,Lykke-Andersen et al. 2014; Tani et al. 2012 ,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa,868,712,0,siUPF1-Up
+MVK,ENST00000447878,Lykke-Andersen et al. 2014; Tani et al. 2012 ,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa,1297,486,0,siUPF1-Up
+MVK,ENST00000539696,Lykke-Andersen et al. 2014; Tani et al. 2012 ,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa,100,_,0,siUPF1-Up
+MZF1,ENST00000599369,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,139,_,2,siUPF1-Up
+MZF1,ENST00000215057,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,139,_,4,siUPF1-Up
+MZF1,ENST00000594108,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,64,_,3,siUPF1-Up
+NAT9,ENST00000580301,Huang et al. 2011; Lykke-Andersen et al. 2014; Wang et al. 2011,siUPF1 RNA half-life; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HeLa; human HEK-293; human U2OS,1157,_,0,siUPF1-Up
+NAT9,ENST00000581136,Huang et al. 2011; Lykke-Andersen et al. 2014; Wang et al. 2011,siUPF1 RNA half-life; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HeLa; human HEK-293; human U2OS,335,_,0,siUPF1-Up
+NAT9,ENST00000582524,Huang et al. 2011; Lykke-Andersen et al. 2014; Wang et al. 2011,siUPF1 RNA half-life; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HeLa; human HEK-293; human U2OS,42,_,0,siUPF1-Up
+NAT9,ENST00000357814,Huang et al. 2011; Lykke-Andersen et al. 2014; Wang et al. 2011,siUPF1 RNA half-life; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HeLa; human HEK-293; human U2OS,1177,_,0,siUPF1-Up
+NAT9,ENST00000583476,Huang et al. 2011; Lykke-Andersen et al. 2014; Wang et al. 2011,siUPF1 RNA half-life; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HeLa; human HEK-293; human U2OS,95,_,0,siUPF1-Up
+NAT9,ENST00000583757,Huang et al. 2011; Lykke-Andersen et al. 2014; Wang et al. 2011,siUPF1 RNA half-life; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HeLa; human HEK-293; human U2OS,78,_,0,siUPF1-Up
+NBPF1,ENST00000430580,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,1624,_,4,siUPF1-Up
+NECAB3,ENST00000493590,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,395,276,0,siUPF1-Up
+NECAB3,ENST00000246190,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,742,_,0,siUPF1-Up
+NECAB3,ENST00000375238,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,742,_,0,siUPF1-Up
+NEK6,ENST00000373603,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,2360,_,2,siUPF1-Up
+NEK6,ENST00000545174,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1491,_,2,siUPF1-Up
+NEK6,ENST00000546191,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1491,_,2,siUPF1-Up
+NEK6,ENST00000539416,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1491,_,0,siUPF1-Up
+NEK6,ENST00000373600,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,2360,_,0,siUPF1-Up
+NEK6,ENST00000394199,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1491,_,0,siUPF1-Up
+NEK6,ENST00000320246,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,2360,_,2,siUPF1-Up
+NFKBIB,ENST00000392079,Lykke-Andersen et al. 2014; Schmidt et al. 2015,SMG6 endonuclease substrates; SMG6 endonuclease substrates ,human HEK-293; human HeLa,1184,_,2,siUPF1-Up
+NFKBIB,ENST00000509705,Lykke-Andersen et al. 2014; Schmidt et al. 2015,SMG6 endonuclease substrates; SMG6 endonuclease substrates ,human HEK-293; human HeLa,1949,454,0,siUPF1-Up
+NFKBIB,ENST00000572515,Lykke-Andersen et al. 2014; Schmidt et al. 2015,SMG6 endonuclease substrates; SMG6 endonuclease substrates ,human HEK-293; human HeLa,831,_,0,siUPF1-Up
+NFKBIB,ENST00000313582,Lykke-Andersen et al. 2014; Schmidt et al. 2015,SMG6 endonuclease substrates; SMG6 endonuclease substrates ,human HEK-293; human HeLa,54,_,0,siUPF1-Up
+NLE1,ENST00000589367,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,604,473,0,siUPF1-Up
+NLE1,ENST00000588642,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,294,153,0,siUPF1-Up
+NLE1,ENST00000360831,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,366,_,0,siUPF1-Up
+NME6,ENST00000451657,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,39,_,0,siUPF1-Up
+NME6,ENST00000447314,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,115,_,1,siUPF1-Up
+NME6,ENST00000435684,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,11,_,0,siUPF1-Up
+NME6,ENST00000415053,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,190,_,0,siUPF1-Up
+NME6,ENST00000454531,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,153,62,0,siUPF1-Up
+NME6,ENST00000415644,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,440,_,0,siUPF1-Up
+NOL3,ENST00000564053,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,431,_,3,siUPF1-Up
+NOL3,ENST00000268605,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,667,_,0,siUPF1-Up
+NOTCH2NL,ENST00000362074,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,801,_,0,siUPF1-Up
+NQO2,ENST00000380430,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,107,_,2,siUPF1-Up
+NQO2,ENST00000380441,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,100,_,2,siUPF1-Up
+NQO2,ENST00000606474,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,184,_,0,siUPF1-Up
+NQO2,ENST00000380455,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,107,_,0,siUPF1-Up
+NRG1,ENST00000287842,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,109,_,0,siUPF1-Up
+NRG1,ENST00000356819,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,628,_,0,siUPF1-Up
+NRG1,ENST00000521670,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,272,_,0,siUPF1-Up
+NRG1,ENST00000520407,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,456,_,0,siUPF1-Up
+NRG1,ENST00000519301,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,3,_,0,siUPF1-Up
+NSUN4,ENST00000307089,Lykke-Andersen et al. 2014; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human U2OS,3850,267,0,siUPF1-Up
+NSUN4,ENST00000474844,Lykke-Andersen et al. 2014; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human U2OS,345,_,0,siUPF1-Up
+NT5C2,ENST00000343289,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,3489,_,0,siUPF1-Up
+NT5C2,ENST00000461461,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,626,559,0,siUPF1-Up
+NT5C2,ENST00000404739,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,1655,_,0,siUPF1-Up
+OBSCN,ENST00000570156,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,81,_,0,siUPF1-Up
+OBSCN,ENST00000366707,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,79,_,0,siUPF1-Up
+OBSCN,ENST00000284548,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,495,_,0,siUPF1-Up
+ORAOV1,ENST00000279147,Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa; human U2OS,1956,_,0,siUPF1-Up
+ORAOV1,ENST00000536870,Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa; human U2OS,1953,_,0,siUPF1-Up
+ORAOV1,ENST00000535657,Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa; human U2OS,213,_,0,siUPF1-Up
+ORAOV1,ENST00000535542,Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa; human U2OS,774,450,0,siUPF1-Up
+ORAOV1,ENST00000441922,Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa; human U2OS,138,61,0,siUPF1-Up
+ORAOV1,ENST00000542341,Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa; human U2OS,367,_,0,siUPF1-Up
+ORAOV1,ENST00000539414,Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa; human U2OS,359,_,0,siUPF1-Up
+ORAOV1,ENST00000543562,Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa; human U2OS,201,107,0,siUPF1-Up
+OSBPL6,ENST00000190611,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,3874,_,2,siUPF1-Up
+OSBPL6,ENST00000357080,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,165,_,2,siUPF1-Up
+OSBPL6,ENST00000409631,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,226,_,2,siUPF1-Up
+OSBPL6,ENST00000315022,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,62,_,1,siUPF1-Up
+OSBPL6,ENST00000409045,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,213,_,2,siUPF1-Up
+PALLD,ENST00000261509,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,2277,_,0,siUPF1-Up
+PALLD,ENST00000512127,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,102,_,0,siUPF1-Up
+PALLD,ENST00000507735,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,2060,_,1,siUPF1-Up
+PARP6,ENST00000287196,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,273,_,1,siUPF1-Up
+PARP6,ENST00000567440,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,1128,793,1,siUPF1-Up
+PARP6,ENST00000565443,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,522,163,1,siUPF1-Up
+PDE4D,ENST00000340635,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,5626,_,0,siUPF1-Up
+PDE4D,ENST00000507116,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,976,_,0,siUPF1-Up
+PDE4D,ENST00000405755,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,101,_,1,siUPF1-Up
+PDE4D,ENST00000317118,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,646,_,1,siUPF1-Up
+PDE4D,ENST00000503258,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,103,_,3,siUPF1-Up
+PDE4D,ENST00000515835,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,166,_,1,siUPF1-Up
+PDE4D,ENST00000360047,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,976,_,0,siUPF1-Up
+PDE4D,ENST00000358923,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,892,_,1,siUPF1-Up
+PDE4D,ENST00000509368,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,2504,184,0,siUPF1-Up
+PDRG1,ENST00000202017,Karam et al. 2015; Lykke-Andersen et al. 2014; Wang et al. 2011,siUPF1/siUPF3B RNA half-life; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HeLa; human HEK-293; human U2OS,852,_,0,siUPF1-Up
+PEA15,ENST00000368076,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,1890,_,2,siUPF1-Up
+PEA15,ENST00000360472,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,1890,_,0,siUPF1-Up
+PHACTR2,ENST00000367584,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,475,_,0,siUPF1-Up
+PHACTR2,ENST00000440869,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,432,_,1,siUPF1-Up
+PHACTR2,ENST00000305766,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,61,_,1,siUPF1-Up
+PHACTR2,ENST00000397980,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,187,_,1,siUPF1-Up
+PHC2,ENST00000257118,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,1239,_,0,siUPF1-Up
+PHC2,ENST00000373418,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,1239,_,0,siUPF1-Up
+PHLDA3,ENST00000367311,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,749,62,0,siUPF1-Up
+PHLDA3,ENST00000367309,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,283,62,1,siUPF1-Up
+PLAU,ENST00000372764,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,932,_,0,siUPF1-Up
+PLAU,ENST00000446342,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,931,_,2,siUPF1-Up
+PLCB4,ENST00000414679,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,368,_,0,siUPF1-Up
+PLCB4,ENST00000378501,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,2233,_,0,siUPF1-Up
+PLCB4,ENST00000378473,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1824,_,0,siUPF1-Up
+PLCB4,ENST00000378493,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,2253,_,0,siUPF1-Up
+PLEKHG3,ENST00000247226,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,3189,_,2,siUPF1-Up
+PLEKHG3,ENST00000394691,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,589,_,2,siUPF1-Up
+PLEKHG3,ENST00000484731,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,642,_,2,siUPF1-Up
+PMM1,ENST00000414636,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,318,279,0,siUPF1-Up
+PMM1,ENST00000216259,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,424,_,0,siUPF1-Up
+PNPLA3,ENST00000406117,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,997,960,0,siUPF1-Up
+PNPLA3,ENST00000216180,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1186,_,0,siUPF1-Up
+POFUT2,ENST00000331343,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,3523,_,0,siUPF1-Up
+POFUT2,ENST00000349485,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,1554,_,0,siUPF1-Up
+POMZP3,ENST00000275569,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,227,_,3,siUPF1-Up
+PPIE,ENST00000356511,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,172,_,0,siUPF1-Up
+PPIE,ENST00000495526,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,4521,4091,0,siUPF1-Up
+PPP1R15A,ENST00000200453,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,84,_,1,siUPF1-Up
+PQLC2,ENST00000375153,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,637,_,1,siUPF1-Up
+PQLC2,ENST00000400548,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,657,_,0,siUPF1-Up
+PQLC2,ENST00000469076,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,1183,470,0,siUPF1-Up
+PQLC2,ENST00000497827,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,886,470,0,siUPF1-Up
+PRKAB1,ENST00000537400,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,283,156,0,siUPF1-Up
+PRKAB1,ENST00000229328,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1305,_,0,siUPF1-Up
+PRKAB1,ENST00000540121,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,516,_,5,siUPF1-Up
+PRNP,ENST00000430350,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,1608,_,0,siUPF1-Up
+PRR5L,ENST00000530639,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,908,_,2,siUPF1-Up
+PRR5L,ENST00000378867,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,2468,_,1,siUPF1-Up
+PTHLH,ENST00000395868,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,757,_,1,siUPF1-Up
+PTHLH,ENST00000545234,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,139,_,0,siUPF1-Up
+PTHLH,ENST00000535992,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1016,_,0,siUPF1-Up
+PTHLH,ENST00000201015,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1022,_,0,siUPF1-Up
+PTPRM,ENST00000580170,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,506,_,0,siUPF1-Up
+PTPRM,ENST00000400053,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,694,_,6,siUPF1-Up
+PTPRM,ENST00000332175,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,699,_,0,siUPF1-Up
+RAB11FIP1,ENST00000287263,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,4277,_,0,siUPF1-Up
+RAB11FIP1,ENST00000330843,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,3946,_,0,siUPF1-Up
+RAB11FIP1,ENST00000522727,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,136,_,2,siUPF1-Up
+RABGAP1L,ENST00000469553,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1620,1127,2,siUPF1-Up
+RABGAP1L,ENST00000478442,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,277,_,0,siUPF1-Up
+RABGAP1L,ENST00000367687,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,592,_,1,siUPF1-Up
+RABGAP1L,ENST00000367688,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,484,_,1,siUPF1-Up
+RABGAP1L,ENST00000489615,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,5307,_,0,siUPF1-Up
+RABGAP1L,ENST00000347255,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,512,_,2,siUPF1-Up
+RABGAP1L,ENST00000251507,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,277,_,0,siUPF1-Up
+RAPH1,ENST00000308091,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,605,_,0,siUPF1-Up
+RAPH1,ENST00000457812,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,736,_,0,siUPF1-Up
+RAPH1,ENST00000319170,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,5755,_,0,siUPF1-Up
+RASGRF2,ENST00000265080,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,4386,_,0,siUPF1-Up
+RASSF1,ENST00000357043,Hurt et al. 2013; Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,"siUPF1, CHX, UPF1 CLIP; SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life",mouse ES; human HEK-293; human HeLa; human U2OS,793,_,0,siUPF1-Up
+RASSF1,ENST00000482447,Hurt et al. 2013; Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,"siUPF1, CHX, UPF1 CLIP; SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life",mouse ES; human HEK-293; human HeLa; human U2OS,1145,205,0,siUPF1-Up
+RASSF1,ENST00000359365,Hurt et al. 2013; Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,"siUPF1, CHX, UPF1 CLIP; SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life",mouse ES; human HEK-293; human HeLa; human U2OS,793,_,0,siUPF1-Up
+RASSF1,ENST00000327761,Hurt et al. 2013; Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,"siUPF1, CHX, UPF1 CLIP; SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life",mouse ES; human HEK-293; human HeLa; human U2OS,793,_,0,siUPF1-Up
+REEP4,ENST00000523293,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,99,_,0,siUPF1-Up
+REEP4,ENST00000306306,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,467,_,0,siUPF1-Up
+REEP4,ENST00000334530,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,583,_,0,siUPF1-Up
+RELT,ENST00000064780,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1981,_,0,siUPF1-Up
+RELT,ENST00000393580,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1149,_,0,siUPF1-Up
+RELT,ENST00000544075,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,315,56,0,siUPF1-Up
+RGS3,ENST00000374140,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,785,_,1,siUPF1-Up
+RGS3,ENST00000394646,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,777,_,4,siUPF1-Up
+RGS3,ENST00000317613,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,662,_,0,siUPF1-Up
+RGS3,ENST00000374136,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,664,_,1,siUPF1-Up
+RHBDD3,ENST00000413137,Lykke-Andersen et al. 2014; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human U2OS,893,559,1,siUPF1-Up
+RHBDD3,ENST00000216085,Lykke-Andersen et al. 2014; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human U2OS,208,_,1,siUPF1-Up
+RHOB,ENST00000272233,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1383,_,0,siUPF1-Up
+RP9,ENST00000297157,Lykke-Andersen et al. 2014; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human U2OS,437,_,0,siUPF1-Up
+SERGEF,ENST00000532265,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,214,_,7,siUPF1-Up
+SERGEF,ENST00000527494,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,807,441,4,siUPF1-Up
+SERGEF,ENST00000530925,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,221,177,5,siUPF1-Up
+SERGEF,ENST00000528200,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,379,_,0,siUPF1-Up
+SERPINE1,ENST00000223095,Hurt et al. 2013,"siUPF1, CHX, UPF1-CLIP",mouse ES,1824,_,0,siUPF1-Up
+SESN2,ENST00000253063,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1689,_,1,siUPF1-Up
+SFXN5,ENST00000410065,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,59,_,0,siUPF1-Up
+SFXN5,ENST00000450185,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,2704,201,0,siUPF1-Up
+SH3GL3,ENST00000427482,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,456,_,1,siUPF1-Up
+SH3GL3,ENST00000324537,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,452,_,7,siUPF1-Up
+SH3GL3,ENST00000563901,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,1291,633,0,siUPF1-Up
+SLC29A2,ENST00000311161,Lykke-Andersen et al. 2014; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human U2OS,1066,_,0,siUPF1-Up
+SLC29A2,ENST00000540386,Lykke-Andersen et al. 2014; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human U2OS,1339,313,0,siUPF1-Up
+SLC29A2,ENST00000357440,Lykke-Andersen et al. 2014; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human U2OS,914,_,0,siUPF1-Up
+SLC29A2,ENST00000541567,Lykke-Andersen et al. 2014; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human U2OS,1607,582,0,siUPF1-Up
+SLC29A2,ENST00000544554,Lykke-Andersen et al. 2014; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human U2OS,914,_,0,siUPF1-Up
+SLC36A4,ENST00000326402,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,4362,_,0,siUPF1-Up
+SLC36A4,ENST00000529184,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,222,_,1,siUPF1-Up
+SLC36A4,ENST00000524875,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,243,175,0,siUPF1-Up
+SMG1,ENST00000565224,Huang et al. 2011; Lykke-Andersen et al. 2014; Yepiskoposyan et al. 2011,siUPF1 RNA half-life; SMG6 endonuclease substrates; siUPF1/siSMG6,human HeLa; human HEK-293; human HeLa,504,_,0,siUPF1-Up
+SMG1,ENST00000446231,Huang et al. 2011; Lykke-Andersen et al. 2014; Yepiskoposyan et al. 2011,siUPF1 RNA half-life; SMG6 endonuclease substrates; siUPF1/siSMG6,human HeLa; human HEK-293; human HeLa,4716,_,0,siUPF1-Up
+SNAP25,ENST00000304886,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,1221,_,0,siUPF1-Up
+SNAP25,ENST00000254976,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,1221,_,0,siUPF1-Up
+SOCS2,ENST00000340600,Lykke-Andersen et al. 2014; Tani et al. 2012 ,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa,1566,_,4,siUPF1-Up
+SOCS2,ENST00000548537,Lykke-Andersen et al. 2014; Tani et al. 2012 ,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa,3000,_,1,siUPF1-Up
+SOCS2,ENST00000551556,Lykke-Andersen et al. 2014; Tani et al. 2012 ,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa,127,_,4,siUPF1-Up
+SOCS2,ENST00000549122,Lykke-Andersen et al. 2014; Tani et al. 2012 ,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa,1027,_,3,siUPF1-Up
+SORBS2,ENST00000355634,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,305,_,4,siUPF1-Up
+SORBS2,ENST00000418609,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,2183,_,1,siUPF1-Up
+SPAG1,ENST00000520508,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,261,_,1,siUPF1-Up
+SPAG1,ENST00000388798,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,880,_,1,siUPF1-Up
+SPAG1,ENST00000251809,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,880,_,0,siUPF1-Up
+SSH3,ENST00000308127,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,713,_,0,siUPF1-Up
+SSH3,ENST00000532600,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,333,300,0,siUPF1-Up
+ST3GAL1,ENST00000399640,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,4916,_,1,siUPF1-Up
+ST3GAL1,ENST00000521180,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,4911,_,4,siUPF1-Up
+ST3GAL1,ENST00000522652,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,819,_,2,siUPF1-Up
+SULT4A1,ENST00000432404,Hurt et al. 2013,"siUPF1, CHX, UPF1-CLIP",mouse ES,1987,383,0,siUPF1-Up
+SULT4A1,ENST00000422525,Hurt et al. 2013,"siUPF1, CHX, UPF1-CLIP",mouse ES,1690,86,0,siUPF1-Up
+SULT4A1,ENST00000330884,Hurt et al. 2013,"siUPF1, CHX, UPF1-CLIP",mouse ES,1492,_,0,siUPF1-Up
+TBC1D22A,ENST00000394449,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1230,640,4,siUPF1-Up
+TBC1D22A,ENST00000355704,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,460,_,3,siUPF1-Up
+TBC1D22A,ENST00000441162,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,907,312,6,siUPF1-Up
+TBC1D22A,ENST00000407381,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,457,_,4,siUPF1-Up
+TBC1D22A,ENST00000406733,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,466,_,3,siUPF1-Up
+TBL2,ENST00000432538,Huang et al. 2011; Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,siUPF1 RNA half-life; SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HeLa; human HEK-293; human HeLa; human U2OS,312,_,0,siUPF1-Up
+TBL2,ENST00000437521,Huang et al. 2011; Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,siUPF1 RNA half-life; SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HeLa; human HEK-293; human HeLa; human U2OS,654,531,0,siUPF1-Up
+TBL2,ENST00000305632,Huang et al. 2011; Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,siUPF1 RNA half-life; SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HeLa; human HEK-293; human HeLa; human U2OS,1575,_,0,siUPF1-Up
+TBL2,ENST00000424598,Huang et al. 2011; Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,siUPF1 RNA half-life; SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HeLa; human HEK-293; human HeLa; human U2OS,2108,795,0,siUPF1-Up
+TBL2,ENST00000458466,Huang et al. 2011; Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,siUPF1 RNA half-life; SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HeLa; human HEK-293; human HeLa; human U2OS,491,454,0,siUPF1-Up
+TBL2,ENST00000450285,Huang et al. 2011; Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,siUPF1 RNA half-life; SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HeLa; human HEK-293; human HeLa; human U2OS,1637,324,0,siUPF1-Up
+TBL2,ENST00000433464,Huang et al. 2011; Lykke-Andersen et al. 2014; Schmidt et al. 2015; Wang et al. 2011,siUPF1 RNA half-life; SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life,human HeLa; human HEK-293; human HeLa; human U2OS,1049,487,0,siUPF1-Up
+TBRG1,ENST00000441174,Lykke-Andersen et al. 2014; Schmidt et al. 2015,SMG6 endonuclease substrates; SMG6 endonuclease substrates ,human HEK-293; human HeLa,2564,_,0,siUPF1-Up
+TBRG1,ENST00000284290,Lykke-Andersen et al. 2014; Schmidt et al. 2015,SMG6 endonuclease substrates; SMG6 endonuclease substrates ,human HEK-293; human HeLa,3769,470,0,siUPF1-Up
+TBRG1,ENST00000529543,Lykke-Andersen et al. 2014; Schmidt et al. 2015,SMG6 endonuclease substrates; SMG6 endonuclease substrates ,human HEK-293; human HeLa,1746,414,0,siUPF1-Up
+THAP9,ENST00000514440,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,341,252,0,siUPF1-Up
+THAP9,ENST00000514244,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,412,281,0,siUPF1-Up
+THAP9,ENST00000505901,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,3005,488,0,siUPF1-Up
+THBS1,ENST00000260356,Hurt et al. 2013,"siUPF1, CHX, UPF1-CLIP",mouse ES,4097,_,0,siUPF1-Up
+TMBIM1,ENST00000258412,Hurt et al. 2013; Schmidt et al. 2015,"siUPF1, CHX, UPF1 CLIP; SMG6 endonuclease substrates ",mouse ES; human HeLa,1283,_,0,siUPF1-Up
+TMBIM1,ENST00000437694,Hurt et al. 2013; Schmidt et al. 2015,"siUPF1, CHX, UPF1 CLIP; SMG6 endonuclease substrates ",mouse ES; human HeLa,266,76,0,siUPF1-Up
+TMEM18,ENST00000432667,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,2310,607,0,siUPF1-Up
+TMEM18,ENST00000405941,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,157,_,0,siUPF1-Up
+TMEM18,ENST00000418447,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,429,356,0,siUPF1-Up
+TMEM18,ENST00000281017,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,2245,_,0,siUPF1-Up
+TMEM79,ENST00000357501,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,291,_,1,siUPF1-Up
+TMEM79,ENST00000295694,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,845,_,1,siUPF1-Up
+TNFRSF12A,ENST00000341627,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,557,_,0,siUPF1-Up
+TNFRSF12A,ENST00000573001,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,260,_,1,siUPF1-Up
+TNFRSF12A,ENST00000574699,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,268,75,0,siUPF1-Up
+TNFRSF12A,ENST00000575124,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,429,_,0,siUPF1-Up
+TOLLIP,ENST00000263646,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1386,_,0,siUPF1-Up
+TOLLIP,ENST00000525159,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,2666,_,0,siUPF1-Up
+TOLLIP,ENST00000527886,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,2667,_,2,siUPF1-Up
+TOLLIP,ENST00000317204,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,2668,_,0,siUPF1-Up
+TOLLIP,ENST00000527938,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,181,_,0,siUPF1-Up
+TOM1L2,ENST00000318094,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,786,_,0,siUPF1-Up
+TOM1L2,ENST00000540946,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,166,_,0,siUPF1-Up
+TOM1L2,ENST00000581396,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,4121,_,0,siUPF1-Up
+TOM1L2,ENST00000535933,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,189,_,0,siUPF1-Up
+TOM1L2,ENST00000478943,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,810,_,3,siUPF1-Up
+TOM1L2,ENST00000542206,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,66,_,0,siUPF1-Up
+TOM1L2,ENST00000395739,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,286,_,0,siUPF1-Up
+TPCN2,ENST00000542467,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,250,_,0,siUPF1-Up
+TPCN2,ENST00000294309,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,571,_,0,siUPF1-Up
+TRIM16L,ENST00000572555,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,207,_,3,siUPF1-Up
+TRIM16L,ENST00000395671,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,658,_,3,siUPF1-Up
+TRIM16L,ENST00000571708,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,30,_,5,siUPF1-Up
+TRIM39,ENST00000433900,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1470,_,4,siUPF1-Up
+,ENST00000430502,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1470,_,1,siUPF1-Up
+,ENST00000548002,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1469,_,1,siUPF1-Up
+,ENST00000419790,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1470,_,4,siUPF1-Up
+,ENST00000443109,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1470,_,1,siUPF1-Up
+,ENST00000376656,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1469,_,1,siUPF1-Up
+,ENST00000426469,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1470,_,1,siUPF1-Up
+,ENST00000396551,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1470,_,1,siUPF1-Up
+,ENST00000552520,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1469,_,1,siUPF1-Up
+,ENST00000396547,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1470,_,1,siUPF1-Up
+,ENST00000452705,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1470,_,1,siUPF1-Up
+,ENST00000438859,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1470,_,1,siUPF1-Up
+,ENST00000376659,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1470,_,4,siUPF1-Up
+,ENST00000396548,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1470,_,1,siUPF1-Up
+TRMT61A,ENST00000389749,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,2252,_,0,siUPF1-Up
+TRMU,ENST00000456595,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,1048,552,1,siUPF1-Up
+TRMU,ENST00000441818,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,1129,635,1,siUPF1-Up
+TRMU,ENST00000453630,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,1135,639,1,siUPF1-Up
+TRMU,ENST00000381021,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,1190,694,1,siUPF1-Up
+TRMU,ENST00000381019,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,230,_,5,siUPF1-Up
+TSC22D3,ENST00000315660,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,1298,_,0,siUPF1-Up
+TSC22D3,ENST00000506081,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,149,_,0,siUPF1-Up
+TSC22D3,ENST00000372397,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,1298,_,0,siUPF1-Up
+TSC22D3,ENST00000372382,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,519,_,1,siUPF1-Up
+TSC22D3,ENST00000372383,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,1295,_,0,siUPF1-Up
+TSC22D3,ENST00000514426,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,32,_,0,siUPF1-Up
+TSC22D3,ENST00000372384,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,1295,_,0,siUPF1-Up
+TSC22D3,ENST00000372390,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,1298,_,0,siUPF1-Up
+TXNL4B,ENST00000268483,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1784,_,0,siUPF1-Up
+TXNL4B,ENST00000565171,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,287,199,0,siUPF1-Up
+TXNL4B,ENST00000426362,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,240,_,0,siUPF1-Up
+TXNRD2,ENST00000542719,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,276,71,5,siUPF1-Up
+TXNRD2,ENST00000334363,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,875,_,0,siUPF1-Up
+TXNRD2,ENST00000400518,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,356,65,5,siUPF1-Up
+TXNRD2,ENST00000400521,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,351,65,1,siUPF1-Up
+TYW5,ENST00000354611,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,3092,_,1,siUPF1-Up
+TYW5,ENST00000441832,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,1643,218,0,siUPF1-Up
+TYW5,ENST00000483328,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,3655,306,1,siUPF1-Up
+U2AF1L4,ENST00000378975,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,187,_,0,siUPF1-Up
+U2AF1L4,ENST00000587987,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,893,620,0,siUPF1-Up
+U2AF1L4,ENST00000601236,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,229,173,0,siUPF1-Up
+U2AF1L4,ENST00000412391,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,187,_,0,siUPF1-Up
+U2AF1L4,ENST00000292879,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,66,_,0,siUPF1-Up
+U2AF1L4,ENST00000587886,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,175,100,0,siUPF1-Up
+UPF3B,ENST00000345865,Huang et al. 2011; Schmidt et al. 2015,siUPF1 RNA half-life; SMG6 endonuclease substrates,human HeLa; human HeLa,852,_,0,siUPF1-Up
+UPP1,ENST00000395564,Mendell et al. 2014,siUPF1 RNA half-life,human HeLa,62,_,0,siUPF1-Up
+UPP1,ENST00000457596,Mendell et al. 2014,siUPF1 RNA half-life,human HeLa,375,290,0,siUPF1-Up
+UPP1,ENST00000417464,Mendell et al. 2014,siUPF1 RNA half-life,human HeLa,492,290,0,siUPF1-Up
+UPP1,ENST00000331803,Mendell et al. 2014,siUPF1 RNA half-life,human HeLa,376,_,0,siUPF1-Up
+UPP1,ENST00000444999,Mendell et al. 2014,siUPF1 RNA half-life,human HeLa,276,66,0,siUPF1-Up
+USP53,ENST00000274030,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1535,_,3,siUPF1-Up
+USP53,ENST00000450251,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,2306,_,3,siUPF1-Up
+USP53,ENST00000509769,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,3699,1398,0,siUPF1-Up
+VAPB,ENST00000475243,Lykke-Andersen et al. 2014; Hurt et al. 2013,"SMG6 endonuclease substrates; siUPF1, CHX, UPF1 CLIP",human HEK-293; mouse ES,6866,_,0,siUPF1-Up
+VAPB,ENST00000520497,Lykke-Andersen et al. 2014; Hurt et al. 2013,"SMG6 endonuclease substrates; siUPF1, CHX, UPF1 CLIP",human HEK-293; mouse ES,627,172,0,siUPF1-Up
+VAPB,ENST00000395802,Lykke-Andersen et al. 2014; Hurt et al. 2013,"SMG6 endonuclease substrates; siUPF1, CHX, UPF1 CLIP",human HEK-293; mouse ES,1387,_,0,siUPF1-Up
+VEGFA,ENST00000372077,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,1925,_,0,siUPF1-Up
+VEGFA,ENST00000523950,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,340,_,0,siUPF1-Up
+VEGFA,ENST00000523873,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,47,_,0,siUPF1-Up
+WHAMM,ENST00000286760,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,1323,_,1,siUPF1-Up
+ZFAND2A,ENST00000316495,Lykke-Andersen et al. 2014; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human U2OS,162,_,1,siUPF1-Up
+ZFP41,ENST00000520584,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1604,900,3,siUPF1-Up
+ZNF391,ENST00000244576,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,2457,_,2,siUPF1-Up
+ZNF473,ENST00000391821,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1713,_,1,siUPF1-Up
+ZNF473,ENST00000445728,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,108,_,3,siUPF1-Up
+ZNF473,ENST00000595661,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1717,_,3,siUPF1-Up
+ZNF473,ENST00000601364,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,217,_,0,siUPF1-Up
+ZNF550,ENST00000447310,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,2855,1451,1,siUPF1-Up
+ZNF550,ENST00000601415,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,7,_,1,siUPF1-Up
+ZNF550,ENST00000506609,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,212,_,1,siUPF1-Up
+ZNF550,ENST00000457177,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,1922,518,1,siUPF1-Up
+ZNF550,ENST00000376230,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,2269,865,1,siUPF1-Up
+ZNF577,ENST00000412216,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,180,_,6,siUPF1-Up
+ZNF577,ENST00000420592,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,533,_,6,siUPF1-Up
+ZNF577,ENST00000451628,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,75,_,4,siUPF1-Up
+ZNF674,ENST00000523374,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,2116,_,0,siUPF1-Up
+ZNF674,ENST00000414387,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,406,_,0,siUPF1-Up
+ARC,ENST00000356613,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1556,742,3,siUPF1-Stab
+ARID5A,ENST00000454558,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,321,_,3,siUPF1-Stab
+ARID5A,ENST00000412735,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1786,254,0,siUPF1-Stab
+ASB6,ENST00000450050,Hurt et al. 2013; Wang et al. 2011,"siUPF1, CHX, UPF1-CLIP; siUPF1 RNA half-life",mouse ES; human U2OS,122,_,3,siUPF1-Stab
+ASB6,ENST00000277458,Hurt et al. 2013; Wang et al. 2011,"siUPF1, CHX, UPF1-CLIP; siUPF1 RNA half-life",mouse ES; human U2OS,898,_,0,siUPF1-Stab
+ASB6,ENST00000277459,Hurt et al. 2013; Wang et al. 2011,"siUPF1, CHX, UPF1-CLIP; siUPF1 RNA half-life",mouse ES; human U2OS,1461,_,0,siUPF1-Stab
+ATXN7L2,ENST00000369870,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,134,_,0,siUPF1-Stab
+AXIN1,ENST00000262320,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,682,_,1,siUPF1-Stab
+BANP,ENST00000393207,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,657,_,3,siUPF1-Stab
+BANP,ENST00000393208,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,657,_,1,siUPF1-Stab
+BANP,ENST00000485772,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,382,261,1,siUPF1-Stab
+BANP,ENST00000459966,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,355,261,1,siUPF1-Stab
+BANP,ENST00000538234,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,654,_,2,siUPF1-Stab
+BANP,ENST00000466197,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,154,57,1,siUPF1-Stab
+BANP,ENST00000355022,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,657,_,1,siUPF1-Stab
+BANP,ENST00000355163,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,654,_,1,siUPF1-Stab
+BANP,ENST00000286122,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,654,_,1,siUPF1-Stab
+C11orf68,ENST00000449692,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,649,_,0,siUPF1-Stab
+C11orf68,ENST00000530188,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,626,_,3,siUPF1-Stab
+C11orf68,ENST00000438576,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,651,_,0,siUPF1-Stab
+C15orf39,ENST00000394987,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1053,_,1,siUPF1-Stab
+C17orf53,ENST00000319977,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,544,_,0,siUPF1-Stab
+C17orf53,ENST00000585683,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,353,_,0,siUPF1-Stab
+C19orf52,ENST00000270502,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,552,_,0,siUPF1-Stab
+C6orf47,ENST00000366431,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,766,_,2,siUPF1-Stab
+C6orf47,ENST00000418357,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,765,_,2,siUPF1-Stab
+C6orf47,ENST00000375911,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,765,_,2,siUPF1-Stab
+CBX4,ENST00000269397,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,803,_,0,siUPF1-Stab
+CCDC12,ENST00000425441,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,331,_,0,siUPF1-Stab
+CCDC12,ENST00000292314,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,326,_,0,siUPF1-Stab
+CCDC88C,ENST00000553403,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1206,_,0,siUPF1-Stab
+CCDC88C,ENST00000389856,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1224,_,2,siUPF1-Stab
+CCDC88C,ENST00000389857,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1300,_,0,siUPF1-Stab
+CDC42EP4,ENST00000581014,Hurt et al. 2013,"siUPF1, CHX, UPF1-CLIP",mouse ES,280,_,0,siUPF1-Stab
+CDC42EP4,ENST00000439510,Hurt et al. 2013,"siUPF1, CHX, UPF1-CLIP",mouse ES,1805,_,0,siUPF1-Stab
+CDC42EP4,ENST00000335793,Hurt et al. 2013,"siUPF1, CHX, UPF1-CLIP",mouse ES,1806,_,0,siUPF1-Stab
+CDT1,ENST00000301019,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,980,_,5,siUPF1-Stab
+CEBPD,ENST00000408965,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,402,_,0,siUPF1-Stab
+CENPBD1,ENST00000314994,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1561,_,2,siUPF1-Stab
+CHIC2,ENST00000263921,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,306,_,1,siUPF1-Stab
+CHST3,ENST00000373115,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,5093,_,0,siUPF1-Stab
+CLK1,ENST00000409769,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,208,_,5,siUPF1-Stab
+CLK1,ENST00000432425,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,1178,809,0,siUPF1-Stab
+CLK1,ENST00000321356,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,297,_,0,siUPF1-Stab
+CSF1,ENST00000329608,Hurt et al. 2013,"siUPF1, CHX, UPF1-CLIP",mouse ES,2154,_,2,siUPF1-Stab
+CSF1,ENST00000369802,Hurt et al. 2013,"siUPF1, CHX, UPF1-CLIP",mouse ES,694,_,2,siUPF1-Stab
+CSF1,ENST00000420111,Hurt et al. 2013,"siUPF1, CHX, UPF1-CLIP",mouse ES,196,_,2,siUPF1-Stab
+CSF1,ENST00000369801,Hurt et al. 2013,"siUPF1, CHX, UPF1-CLIP",mouse ES,9,_,2,siUPF1-Stab
+CSRNP1,ENST00000273153,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1200,_,0,siUPF1-Stab
+CSRNP1,ENST00000514182,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,717,_,0,siUPF1-Stab
+DDIT3,ENST00000547303,Hurt et al. 2013; Lykke-Andersen et al. 2014; Schmidt et al. 2015; Tani et al. 2012,"siUPF1, CHX, UPF1-CLIP; SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life",mouse ES; human HEK-293; human HeLa; human HeLa,221,_,1,siUPF1-Stab
+DDIT3,ENST00000346473,Hurt et al. 2013; Lykke-Andersen et al. 2014; Schmidt et al. 2015; Tani et al. 2012,"siUPF1, CHX, UPF1-CLIP; SMG6 endonuclease substrates; SMG6 endonuclease substrates; siUPF1 RNA half-life",mouse ES; human HEK-293; human HeLa; human HeLa,216,_,1,siUPF1-Stab
+DGCR14,ENST00000252137,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,3917,_,0,siUPF1-Stab
+DGCR8,ENST00000383024,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,1767,_,1,siUPF1-Stab
+DUSP2,ENST00000288943,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,657,_,0,siUPF1-Stab
+ENC1,ENST00000537006,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,96,_,0,siUPF1-Stab
+ENC1,ENST00000510316,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,2616,_,1,siUPF1-Stab
+FAM117A,ENST00000240364,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,923,_,0,siUPF1-Stab
+FAM193A,ENST00000382839,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,684,_,1,siUPF1-Stab
+FAM193A,ENST00000512465,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1933,1155,1,siUPF1-Stab
+FAM193A,ENST00000513898,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1466,1351,0,siUPF1-Stab
+FAM193A,ENST00000502458,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,21,_,0,siUPF1-Stab
+FAM53B,ENST00000337318,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,3950,_,1,siUPF1-Stab
+FAM53B,ENST00000392754,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1571,_,5,siUPF1-Stab
+FAM53B,ENST00000280780,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,219,_,1,siUPF1-Stab
+GADD45A,ENST00000370986,Hurt et al. 2013; Lykke-Andersen et al. 2014; Schmidt et al. 2015,"siUPF1, CHX, UPF1-CLIP; SMG6 endonuclease substrates; SMG6 endonuclease substrates ",mouse ES; human HEK-293; human HeLa,564,_,1,siUPF1-Stab
+GCC1,ENST00000321407,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1396,_,0,siUPF1-Stab
+GLI2,ENST00000341310,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,4514,1341,1,siUPF1-Stab
+GLI2,ENST00000361492,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1977,_,0,siUPF1-Stab
+GLI2,ENST00000437950,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1670,1392,0,siUPF1-Stab
+GLI2,ENST00000438299,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,3334,2543,1,siUPF1-Stab
+GLI2,ENST00000452692,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,3283,2492,1,siUPF1-Stab
+GMEB2,ENST00000266068,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,2487,_,2,siUPF1-Stab
+GMEB2,ENST00000370077,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,2487,_,0,siUPF1-Stab
+HAUS8,ENST00000593360,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,107,_,8,siUPF1-Stab
+HAUS8,ENST00000601564,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,528,429,0,siUPF1-Stab
+HAUS8,ENST00000448593,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,112,_,2,siUPF1-Stab
+HERPUD2,ENST00000311350,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,621,_,1,siUPF1-Stab
+HEXIM2,ENST00000592695,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,226,_,0,siUPF1-Stab
+HJURP,ENST00000432087,Lykke-Andersen et al. 2014; Tani et al. 2012,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa,734,_,1,siUPF1-Stab
+HJURP,ENST00000441687,Lykke-Andersen et al. 2014; Tani et al. 2012,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa,734,_,1,siUPF1-Stab
+IGHMBP2,ENST00000255078,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,868,_,0,siUPF1-Stab
+IGHMBP2,ENST00000544541,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,327,287,0,siUPF1-Stab
+IGHMBP2,ENST00000545146,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,174,126,0,siUPF1-Stab
+IP6K2,ENST00000413298,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,196,_,0,siUPF1-Stab
+IP6K2,ENST00000443964,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,275,_,3,siUPF1-Stab
+IP6K2,ENST00000453202,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,27,_,0,siUPF1-Stab
+IP6K2,ENST00000433104,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,990,205,4,siUPF1-Stab
+IP6K2,ENST00000328631,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,270,_,0,siUPF1-Stab
+IP6K2,ENST00000417896,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,554,_,0,siUPF1-Stab
+IP6K2,ENST00000340879,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,701,_,0,siUPF1-Stab
+IP6K2,ENST00000432678,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,793,_,0,siUPF1-Stab
+IP6K2,ENST00000450045,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,165,_,2,siUPF1-Stab
+IP6K2,ENST00000416707,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,873,120,0,siUPF1-Stab
+IP6K2,ENST00000412795,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,178,112,3,siUPF1-Stab
+IP6K2,ENST00000431721,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,1378,_,3,siUPF1-Stab
+IP6K2,ENST00000449610,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,1114,_,0,siUPF1-Stab
+IP6K2,ENST00000446860,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,848,_,3,siUPF1-Stab
+JAG1,ENST00000423891,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,235,_,1,siUPF1-Stab
+JMJD6,ENST00000303996,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,576,161,1,siUPF1-Stab
+JMJD6,ENST00000542934,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,503,88,1,siUPF1-Stab
+JMJD6,ENST00000397625,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,276,_,0,siUPF1-Stab
+KANSL2,ENST00000420613,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,628,_,0,siUPF1-Stab
+KANSL2,ENST00000553086,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,155,_,0,siUPF1-Stab
+KANSL2,ENST00000550347,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,642,_,0,siUPF1-Stab
+KCTD2,ENST00000581589,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,216,_,3,siUPF1-Stab
+KCTD2,ENST00000375286,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,3290,418,1,siUPF1-Stab
+LDLR,ENST00000545707,Hurt et al. 2013,"siUPF1, CHX, UPF1-CLIP",mouse ES,294,_,0,siUPF1-Stab
+LDLR,ENST00000558013,Hurt et al. 2013,"siUPF1, CHX, UPF1-CLIP",mouse ES,496,_,0,siUPF1-Stab
+LDLR,ENST00000557933,Hurt et al. 2013,"siUPF1, CHX, UPF1-CLIP",mouse ES,7,_,0,siUPF1-Stab
+LDLR,ENST00000455727,Hurt et al. 2013,"siUPF1, CHX, UPF1-CLIP",mouse ES,168,_,0,siUPF1-Stab
+MAD1L1,ENST00000399654,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,276,_,1,siUPF1-Stab
+MAD1L1,ENST00000402746,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,276,_,3,siUPF1-Stab
+MAD1L1,ENST00000265854,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,259,_,1,siUPF1-Stab
+MAFF,ENST00000407965,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1627,_,1,siUPF1-Stab
+MAFF,ENST00000538999,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1625,_,0,siUPF1-Stab
+MAFF,ENST00000538320,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1625,_,0,siUPF1-Stab
+MAPK7,ENST00000395602,Hurt et al. 2013; Tani et al. 2012,"siUPF1, CHX, UPF1-CLIP; siUPF1 RNA half-life",mouse ES; human HeLa,313,_,0,siUPF1-Stab
+MAPK7,ENST00000299612,Hurt et al. 2013; Tani et al. 2012,"siUPF1, CHX, UPF1-CLIP; siUPF1 RNA half-life",mouse ES; human HeLa,313,_,2,siUPF1-Stab
+MAPK7,ENST00000395604,Hurt et al. 2013; Tani et al. 2012,"siUPF1, CHX, UPF1-CLIP; siUPF1 RNA half-life",mouse ES; human HeLa,313,_,0,siUPF1-Stab
+MAPK7,ENST00000581260,Hurt et al. 2013; Tani et al. 2012,"siUPF1, CHX, UPF1-CLIP; siUPF1 RNA half-life",mouse ES; human HeLa,421,168,0,siUPF1-Stab
+MAPK7,ENST00000308406,Hurt et al. 2013; Tani et al. 2012,"siUPF1, CHX, UPF1-CLIP; siUPF1 RNA half-life",mouse ES; human HeLa,312,_,4,siUPF1-Stab
+MCAT,ENST00000327555,Lykke-Andersen et al. 2014; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human U2OS,575,_,0,siUPF1-Stab
+MCAT,ENST00000290429,Lykke-Andersen et al. 2014; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human U2OS,837,_,0,siUPF1-Stab
+MICAL3,ENST00000585038,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,39,_,0,siUPF1-Stab
+MICAL3,ENST00000441493,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,3083,_,0,siUPF1-Stab
+MICAL3,ENST00000400561,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,122,_,0,siUPF1-Stab
+MICAL3,ENST00000383094,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,101,_,0,siUPF1-Stab
+MICAL3,ENST00000495076,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,3922,1496,0,siUPF1-Stab
+MKL1,ENST00000355630,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1109,_,2,siUPF1-Stab
+MKL1,ENST00000396617,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1517,_,2,siUPF1-Stab
+MKL1,ENST00000402630,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,70,_,1,siUPF1-Stab
+MKL1,ENST00000402042,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1100,_,2,siUPF1-Stab
+MTHFSD,ENST00000568798,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,188,84,0,siUPF1-Stab
+MTHFSD,ENST00000543303,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,39,_,0,siUPF1-Stab
+MTHFSD,ENST00000546093,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1178,_,3,siUPF1-Stab
+MTHFSD,ENST00000566050,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,996,486,0,siUPF1-Stab
+MTHFSD,ENST00000567539,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,334,188,0,siUPF1-Stab
+MUL1,ENST00000264198,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1240,_,0,siUPF1-Stab
+NAB2,ENST00000342556,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,754,_,1,siUPF1-Stab
+NAB2,ENST00000300131,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,755,_,1,siUPF1-Stab
+NFKBIA,ENST00000554001,Lykke-Andersen et al. 2014; Tani et al. 2012,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa,1075,548,0,siUPF1-Stab
+NFKBIA,ENST00000557389,Lykke-Andersen et al. 2014; Tani et al. 2012,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human HeLa,468,_,0,siUPF1-Stab
+NOP2,ENST00000399466,Lykke-Andersen et al. 2014; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human U2OS,122,_,0,siUPF1-Stab
+NOP2,ENST00000545915,Lykke-Andersen et al. 2014; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human U2OS,261,_,0,siUPF1-Stab
+NOP2,ENST00000382421,Lykke-Andersen et al. 2014; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human U2OS,122,_,0,siUPF1-Stab
+NOP2,ENST00000540228,Lykke-Andersen et al. 2014; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human U2OS,259,_,0,siUPF1-Stab
+NOP2,ENST00000545200,Lykke-Andersen et al. 2014; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human U2OS,784,_,0,siUPF1-Stab
+NOP2,ENST00000322166,Lykke-Andersen et al. 2014; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human U2OS,122,_,0,siUPF1-Stab
+NOP2,ENST00000537442,Lykke-Andersen et al. 2014; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human U2OS,130,_,0,siUPF1-Stab
+PIGC,ENST00000367728,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,272,_,8,siUPF1-Stab
+PIM3,ENST00000360612,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,953,_,0,siUPF1-Stab
+PLEKHG3,ENST00000247226,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,3189,_,2,siUPF1-Stab
+PLEKHG3,ENST00000484731,Tani et al. 2012; Wang et al. 2011,siUPF1 RNA half-life; siUPF1 RNA half-life,human HeLa; human U2OS,642,_,2,siUPF1-Stab
+PMEPA1,ENST00000341744,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,3661,_,1,siUPF1-Stab
+PMEPA1,ENST00000395816,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,3661,_,0,siUPF1-Stab
+PMEPA1,ENST00000265626,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,3655,_,2,siUPF1-Stab
+PPP1R15A,ENST00000200453,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,84,_,1,siUPF1-Stab
+PPP1R26,ENST00000604351,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,753,_,2,siUPF1-Stab
+PPP3CC,ENST00000240139,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,323,_,0,siUPF1-Stab
+PPP3CC,ENST00000518852,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,26,_,0,siUPF1-Stab
+PRDM11,ENST00000424263,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,179,_,1,siUPF1-Stab
+RARA,ENST00000394089,Hurt et al. 2013; Tani et al. 2012; Wang et al. 2011,"siUPF1, CHX, UPF1-CLIP; siUPF1 RNA half-life; siUPF1 RNA half-life",mouse ES; human HeLa; human U2OS,105,_,1,siUPF1-Stab
+RARA,ENST00000394081,Hurt et al. 2013; Tani et al. 2012; Wang et al. 2011,"siUPF1, CHX, UPF1-CLIP; siUPF1 RNA half-life; siUPF1 RNA half-life",mouse ES; human HeLa; human U2OS,569,_,0,siUPF1-Stab
+RNF24,ENST00000358395,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,2642,_,1,siUPF1-Stab
+RNF24,ENST00000336095,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,6754,_,2,siUPF1-Stab
+RP9,ENST00000297157,Lykke-Andersen et al. 2014; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human U2OS,437,_,0,siUPF1-Stab
+RPP38,ENST00000378202,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,89,_,0,siUPF1-Stab
+RPP38,ENST00000378201,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,71,_,0,siUPF1-Stab
+RRP8,ENST00000534343,Schmidt et al. 2015; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HeLa; human U2OS,226,_,1,siUPF1-Stab
+SERTAD1,ENST00000357949,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1244,_,1,siUPF1-Stab
+SESN2,ENST00000253063,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1689,_,1,siUPF1-Stab
+SLC35E4,ENST00000406566,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1248,_,1,siUPF1-Stab
+SLC5A10,ENST00000317977,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,2164,_,4,siUPF1-Stab
+SLC5A10,ENST00000417251,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,181,_,0,siUPF1-Stab
+SPATA2L,ENST00000289805,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,991,_,0,siUPF1-Stab
+SPATA2L,ENST00000335360,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,463,_,0,siUPF1-Stab
+SRC,ENST00000373558,Hurt et al. 2013,"siUPF1, CHX, UPF1-CLIP",mouse ES,2671,_,0,siUPF1-Stab
+SRC,ENST00000373578,Hurt et al. 2013,"siUPF1, CHX, UPF1-CLIP",mouse ES,2671,_,0,siUPF1-Stab
+SURF6,ENST00000372022,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1153,_,1,siUPF1-Stab
+THAP7,ENST00000215742,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,108,_,2,siUPF1-Stab
+THAP7,ENST00000399133,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,103,_,3,siUPF1-Stab
+TMEM11,ENST00000317635,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1044,_,3,siUPF1-Stab
+TMEM138,ENST00000542946,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,2322,_,1,siUPF1-Stab
+TMEM138,ENST00000381787,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,502,_,3,siUPF1-Stab
+TMEM138,ENST00000278826,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,800,_,3,siUPF1-Stab
+TMEM57,ENST00000374343,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1743,_,0,siUPF1-Stab
+TOE1,ENST00000372090,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,273,_,1,siUPF1-Stab
+TSSC4,ENST00000451491,Schmidt et al. 2015; Tani et al. 2012,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HeLa; human HeLa,252,_,0,siUPF1-Stab
+UBE2G1,ENST00000572484,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,574,_,4,siUPF1-Stab
+UBE2G1,ENST00000571980,Lykke-Andersen et al. 2014 ,SMG6 endonuclease substrates,human HEK-293,519,299,0,siUPF1-Stab
+USP36,ENST00000449938,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1013,_,10,siUPF1-Stab
+USP36,ENST00000312010,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1537,_,1,siUPF1-Stab
+USP36,ENST00000589225,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,2295,2103,0,siUPF1-Stab
+USP36,ENST00000591942,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,154,138,0,siUPF1-Stab
+USP36,ENST00000589424,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,46,_,0,siUPF1-Stab
+YDJC,ENST00000398873,Schmidt et al. 2015,SMG6 endonuclease substrates ,human HeLa,670,_,0,siUPF1-Stab
+ZBTB45,ENST00000354590,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,524,_,4,siUPF1-Stab
+ZBTB45,ENST00000594051,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,524,_,0,siUPF1-Stab
+ZKSCAN5,ENST00000394170,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1573,_,1,siUPF1-Stab
+ZKSCAN5,ENST00000451158,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,430,_,0,siUPF1-Stab
+ZNF142,ENST00000449707,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,423,_,2,siUPF1-Stab
+ZNF239,ENST00000374446,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,359,_,2,siUPF1-Stab
+ZNF239,ENST00000306006,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,359,_,3,siUPF1-Stab
+ZNF263,ENST00000538765,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,471,_,0,siUPF1-Stab
+ZNF296,ENST00000303809,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,101,_,1,siUPF1-Stab
+ZNF3,ENST00000424697,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1169,_,0,siUPF1-Stab
+ZNF3,ENST00000303915,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,1164,_,4,siUPF1-Stab
+ZNF410,ENST00000554582,Lykke-Andersen et al. 2014; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human U2OS,333,257,2,siUPF1-Stab
+ZNF410,ENST00000442160,Lykke-Andersen et al. 2014; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human U2OS,331,_,6,siUPF1-Stab
+ZNF410,ENST00000324593,Lykke-Andersen et al. 2014; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human U2OS,737,_,5,siUPF1-Stab
+ZNF410,ENST00000555044,Lykke-Andersen et al. 2014; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human U2OS,970,_,5,siUPF1-Stab
+ZNF410,ENST00000334521,Lykke-Andersen et al. 2014; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human U2OS,706,_,5,siUPF1-Stab
+ZNF410,ENST00000540593,Lykke-Andersen et al. 2014; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human U2OS,56,_,6,siUPF1-Stab
+ZNF410,ENST00000556396,Lykke-Andersen et al. 2014; Wang et al. 2011,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HEK-293; human U2OS,1413,1075,2,siUPF1-Stab
+ZNF446,ENST00000594369,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,504,_,0,siUPF1-Stab
+ZNF446,ENST00000596341,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,502,_,8,siUPF1-Stab
+ZNF446,ENST00000335841,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,761,_,0,siUPF1-Stab
+ZNF473,ENST00000595661,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,1717,_,3,siUPF1-Stab
+ZNF473,ENST00000594968,Wang et al. 2011,siUPF1 RNA half-life,human U2OS,188,91,1,siUPF1-Stab
+ZNF581,ENST00000588537,Schmidt et al. 2015; Tani et al. 2012,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HeLa; human HeLa,456,_,1,siUPF1-Stab
+ZNF581,ENST00000270451,Schmidt et al. 2015; Tani et al. 2012,SMG6 endonuclease substrates; siUPF1 RNA half-life,human HeLa; human HeLa,457,_,1,siUPF1-Stab
+ZNF777,ENST00000247930,Tani et al. 2012,siUPF1 RNA half-life,human HeLa,413,_,0,siUPF1-Stab
