@@ -2,7 +2,6 @@
 
 *Citation: Recessive deleterious variants in SMG8 Expand the Role of Nonsense-Mediated Decay in Developmental Disorders in Humans*
 
-Scripts for quality control and DGE analysis
 
 ## Dependencies
 - perl (v5.26.2)
