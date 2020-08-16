@@ -5,25 +5,25 @@
 Scripts for DGE analysis
 
 ## Dependencies
-perl (v5.26.2)
+- perl (v5.26.2)
 
-Statistics::ANOVA 0.14
+  - Statistics::ANOVA 0.14
 
-Statistics::Descriptive
+  - Statistics::Descriptive
 
-Statistics::Multtest
+  - Statistics::Multtest
 
-R (3.6.3)
+- R (3.6.3)
 
-pheatmap
+  - pheatmap
 
-ggfortify
+ - ggfortify
 
-ggrepel
-
-gridExtra
-
-ggpubr
+  - ggrepel
+  
+  - gridExtra
+  
+  -ggpubr
 
 ## Use 
 `jupyter/datascience-notebook`
