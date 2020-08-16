@@ -11,5 +11,7 @@ Statistics::ANOVA 0.14
 
 Statistics::Descriptive
 
+Statistics::Multtest
+
 ## Use 
 `jupyter/datascience-notebook`
