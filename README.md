@@ -28,13 +28,21 @@ Scripts for DGE analysis
 ## Use 
 
 ### PCA
+```
+perl pca.blood.pl 
+```
 
 ### Quality Assessment
+
+```
+perl select_gene.skin.pl
+./ggscatter.r
+```
 
 ### DGE Analysis
 
 ```
 perl anova.skin.pl     #####Calculate Anova p-value
 perl add_info.pl skin  ####Add q-value, gene name and NMD related information
-pheatmap.all.r         ####visualize expression profile
+./pheatmap.all.r         ####visualize expression profile
 ```
