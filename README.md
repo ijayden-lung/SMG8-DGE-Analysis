@@ -1,6 +1,6 @@
 # SMG8-DGE-Analysis
 
-**Citation: Recessive deleterious variants in SMG8 Expand the Role of Nonsense-Mediated Decay in Developmental Disorders in Humans **
+**Citation: Recessive deleterious variants in SMG8 Expand the Role of Nonsense-Mediated Decay in Developmental Disorders in Humans**
 
 Scripts for DGE analysis
 
