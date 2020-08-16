@@ -1,5 +1,6 @@
 # SMG8-DGE-Analysis
 
+**Citation: Cass AA and Xiao X. (2019). mountainClimber identifies alternative transcription start and polyadenylation sites in RNA-Seq. Cell Systems**
 
 ## Working environment
 
