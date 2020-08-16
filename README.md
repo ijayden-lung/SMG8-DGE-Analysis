@@ -7,8 +7,9 @@ Scripts for DGE analysis
 ## Dependencies
 perl (v5.26.2)
 
-Statistics::ANOVA 0.14;
+Statistics::ANOVA 0.14
 
-Statistics::Descriptive;
+Statistics::Descriptive
 
-### Use `jupyter/datascience-notebook`
+## Use 
+`jupyter/datascience-notebook`
